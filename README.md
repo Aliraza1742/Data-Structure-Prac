@@ -4,7 +4,7 @@ Welcome to the **Data Structures Labs** repository! This repository contains mul
 
 ---
 
-## 📚 Contents
+## Contents
 
 Each lab focuses on specific data structures and algorithms, implemented with clarity and educational value in mind.
 
